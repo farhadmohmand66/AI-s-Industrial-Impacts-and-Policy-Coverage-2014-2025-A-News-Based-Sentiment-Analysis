@@ -15,15 +15,14 @@ This research project analyzes over 22,000 news articles from 2014 to 2025 to in
 ## 📂 Repository Structure
 
 
-sentiment_a/
-├── preprocessing.py # Script for cleaning and preparing news data
-├── sentiment_analysis_visualise.py # Main analysis and visualization script
-├── report.md # Full research report with detailed findings
-├── .gitignore # Specifies files to be ignored by Git
-├── charts/ # Directory containing generated visualizations
-│ └── (various .png files)
-└── README.md # This file
-
+sentiment_analysis_project/
+│
+├── 📊 charts/ # Generated visualizations (e.g., .png, .jpg)
+├── ⚙️ preprocessing.py # Data cleaning, tokenization, and preprocessing
+├── 📈 sentiment_analysis_visualise.py # Analysis and visualization logic
+├── 📄 report.md # Research report with methodology and results
+├── 🔐 .gitignore # Git exclusion rules (e.g., data, secrets)
+└── 📖 README.md # Project documentation and setup guide
 
 ## 🛠️ Installation & Usage
 
