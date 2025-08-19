@@ -13,6 +13,8 @@ This research project analyzes over 22,000 news articles from 2014 to 2025 to in
 - **Interactive Visualizations:** Includes generated charts and graphs for clear result interpretation.
 
 ## 📂 Repository Structure
+
+
 sentiment_a/
 ├── preprocessing.py # Script for cleaning and preparing news data
 ├── sentiment_analysis_visualise.py # Main analysis and visualization script
