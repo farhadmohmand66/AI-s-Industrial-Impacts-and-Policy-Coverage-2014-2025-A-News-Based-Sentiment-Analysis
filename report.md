@@ -1,52 +1,40 @@
----
-title: "AI’s Industrial Impacts and Policy Coverage (2014–2025): A News-Based Sentiment Analysis" 
-
-
-author: "Farhad Khan"
-affiliation: "School of Computer Science and Engineering, University of Electronic Science and Technology of China, China"
-email: "farhadmohmand66@std.uestc.edu.cn"
-date: "2025-08-20"
-github: "https://github.com/farhadmohmand66"
-repository: "https://github.com/farhadmohmand66/AI-s-Industrial-Impacts-and-Policy-Coverage-2014-2025-A-News-Based-Sentiment-Analysis"
-keywords:
-  - Artificial Intelligence
-  - Sentiment Analysis
-  - Natural Language Processing
-  - Labor Market Disruption
-  - Economic Policy
-  - Workforce Transformation
-  - News Media Analysis
-license: "CC BY-NC-SA 4.0"
-abstract: >
-  This research analyzes over 22,000 news articles from 2014 to 2025 to track the evolving discourse on Artificial Intelligence (AI) and its perceived impact on jobs, industries, and policy. Utilizing NLP techniques—including text cleaning, tokenization, and sentiment analysis via the DeepSeek API—this study categorizes mentions of specific job roles, assesses their perceived risk level (augmented, at risk, obsolete, emerging), measures associated public sentiment, and extracts prevalent policy recommendations. Key findings show a dramatic rise in media coverage focused on AI's workforce impact. Roles in technology, healthcare, and education are frequently discussed as being augmented, while positions in customer service, manufacturing, and data entry are prominently framed as at risk. Sentiment is complex and varies significantly by sector. Policy discussions are dominated by calls for training/upskilling programs and robust AI governance frameworks. This analysis offers crucial insights for policymakers, industry leaders, and individuals preparing for the future of work.
----
+<div style="page-break-after: always;">
+<div align="center">
 
 # AI’s Industrial Impacts and Policy Coverage (2014–2025): A News-Based Sentiment Analysis
 
-**Author:** Farhad Khan | **Affiliation:** University of Electronic Science and Technology of China | **Date:** August 20, 2025 
-**Email:** [farhadmohmand66@std.uestc.edu.cn](mailto:farhadmohmand66@std.uestc.edu.cn)
+**Farhad Khan**  
+School of Computer Science and Engineering  
+University of Electronic Science and Technology of China  
+[farhadmohmand66@std.uestc.edu.cn](mailto:farhadmohmand66@std.uestc.edu.cn)
 
----
-
-## Abstract
-<div style="text-align: justify;">
-This research analyzes over 22,000 news articles from 2014 to 2025 to track the evolving discourse on Artificial Intelligence (AI) and its perceived impact on jobs, industries, and policy. Utilizing NLP techniques—including text cleaning, tokenization, and sentiment analysis via the DeepSeek API—this study categorizes mentions of specific job roles, assesses their perceived risk level (augmented, at risk, obsolete, emerging), measures associated public sentiment, and extracts prevalent policy recommendations. Key findings show a dramatic rise in media coverage focused on AI's workforce impact. Roles in technology, healthcare, and education are frequently discussed as being augmented, while positions in customer service, manufacturing, and data entry are prominently framed as at risk. Sentiment is complex and varies significantly by sector. Policy discussions are dominated by calls for training/upskilling programs and robust AI governance frameworks. This analysis offers crucial insights for policymakers, industry leaders, and individuals preparing for the future of work.
+August 20, 2025 
 </div>
 
-## Keywords
 
-`Artificial Intelligence`, `Sentiment Analysis`, `Natural Language Processing`, `Labor Market Disruption`, `Economic Policy`, `Workforce Transformation`, `News Media Analysis`
 
-## License
+<div style="text-align: justify;">
+<div align="center">
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+ ### Abstract 
+</div>
 
-## Repository
+This research analyzes over 22,000 news articles from 2014 to 2025 to track the evolving discourse on Artificial Intelligence (AI) and its perceived impact on jobs, industries, and policy. Utilizing NLP techniques—including text cleaning, tokenization, and sentiment analysis via the DeepSeek API—this study categorizes mentions of specific job roles, assesses their perceived risk level (augmented, at risk, obsolete, emerging), measures associated public sentiment, and extracts prevalent policy recommendations. Key findings show a dramatic rise in media coverage focused on AI's workforce impact. Roles in technology, healthcare, and education are frequently discussed as being augmented, while positions in customer service, manufacturing, and data entry are prominently framed as at risk. Sentiment is complex and varies significantly by sector. Policy discussions are dominated by calls for training/upskilling programs and robust AI governance frameworks. This analysis offers crucial insights for policymakers, industry leaders, and individuals preparing for the future of work.
 
-The full code, data, and methodology for this project are available in the public GitHub repository:  
-[**AI-s-Industrial-Impacts-and-Policy-Coverage-2014-2025-A-News-Based-Sentiment-Analysis**](https://github.com/farhadmohmand66/AI-s-Industrial-Impacts-and-Policy-Coverage-2014-2025-A-News-Based-Sentiment-Analysis)
+</div>
 
----
+### Keywords  
+`Artificial Intelligence` . `Sentiment Analysis` · `Natural Language Processing` · `Labor Market Disruption` · `Economic Policy` · `Workforce Transformation` · `News Media Analysis`
+
+### Repository  
+[GitHub Repository](https://github.com/farhadmohmand66/AI-s-Industrial-Impacts-and-Policy-Coverage-2014-2025-A-News-Based-Sentiment-Analysis)
+
+### License  
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+</div>
+
 
 <div style="text-align: justify;">
 
@@ -185,4 +173,5 @@ Future research could expand upon this analysis by:
 *   Tracking the implementation and effectiveness of the discussed policy recommendations over time.
 
 By continuing to monitor and analyze the public discourse surrounding AI and employment, we can gain valuable insights to help navigate the ongoing transformation of the workforce and build a more inclusive and prosperous future.
+
 </div>
