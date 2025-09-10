@@ -2,6 +2,9 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+
+## Dataset
+ [https://huggingface.co/datasets/yjernite/news-ai-labor-coverage]_(https://huggingface.co/datasets/yjernite/news-ai-labor-coverage)
 ## 📌 Overview
 This research project analyzes over 22,000 news articles from 2014 to 2025 to investigate the evolving media discourse on Artificial Intelligence (AI). The study focuses on its impact on specific job roles, associated public sentiment, and prevalent policy recommendations using Natural Language Processing (NLP) and sentiment analysis techniques.
 
@@ -31,6 +34,7 @@ sentiment_analysis_project/
 ├── 🔐 .gitignore # Git exclusion rules (e.g., data, secrets)
 
 └── 📖 README.md # Project documentation and setup guide
+
 
 ## 🛠️ Installation & Usage
 
