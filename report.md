@@ -36,6 +36,11 @@ This research analyzes over 22,000 news articles from 2014 to 2025 to track the 
 [https://github.com/farhadmohmand66/AI-s-Industrial-Impacts-and-Policy-Coverage-2014-2025-A-News-Based-Sentiment-Analysis](https://github.com/farhadmohmand66/AI-s-Industrial-Impacts-and-Policy-Coverage-2014-2025-A-News-Based-Sentiment-Analysis)
 
 ---
+### Dataset 
+[https://huggingface.co/datasets/yjernite/news-ai-labor-coverage](https://huggingface.co/datasets/yjernite/news-ai-labor-coverage)
+
+---
+---
 
 ### License  
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International  
@@ -210,5 +215,6 @@ Future research could expand upon this analysis by:
 By continuing to monitor and analyze the public discourse surrounding AI and employment, we can gain valuable insights to help navigate the ongoing transformation of the workforce and build a more inclusive and prosperous future.
 
 </div>
+
 
 
