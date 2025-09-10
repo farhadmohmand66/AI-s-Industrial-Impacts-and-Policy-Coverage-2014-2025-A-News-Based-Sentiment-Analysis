@@ -4,7 +4,7 @@
 
 
 ## Dataset
- [https://huggingface.co/datasets/yjernite/news-ai-labor-coverage]_(https://huggingface.co/datasets/yjernite/news-ai-labor-coverage)
+[https://huggingface.co/datasets/yjernite/news-ai-labor-coverage](https://huggingface.co/datasets/yjernite/news-ai-labor-coverage)
 ## 📌 Overview
 This research project analyzes over 22,000 news articles from 2014 to 2025 to investigate the evolving media discourse on Artificial Intelligence (AI). The study focuses on its impact on specific job roles, associated public sentiment, and prevalent policy recommendations using Natural Language Processing (NLP) and sentiment analysis techniques.
 
